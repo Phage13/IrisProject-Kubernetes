@@ -1,0 +1,22 @@
+# Byte-compiled / cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Logs and databases
+*.log
+*.db
+
+# Environment files
+.env
+
+# Git and IDE metadata
+.git
+.gitignore
+.vscode/
+.idea/
+
+# Tests and local artifacts
+tests/
+*.ipynb
